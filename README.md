@@ -1,2 +1,4 @@
-# Simpre-navbar
-A very simple link navegation bar with HTML5 and CSS3
+# Improver Web Page
+
+A personal web page using HTML5 and CSS3
+
